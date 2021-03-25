@@ -147,7 +147,7 @@ header:hover{
 	justify-content:center;
 }
 
-.social-media a {
+.spotify{
     margin: 10px;
     font-size: 2rem;
     text-align:center;
@@ -155,16 +155,16 @@ header:hover{
 	color: var(--main-fonts-color);
 }
 
-.social-media a i{
+.spotify i{
 	cursor: pointer;
 }
 
-.social-media  a:hover {
+.spotify:hover {
 	color:  #1DB954;
 	text-shadow: 0 0 50px #1DB954;
 }
 
-.social-media b {
+.youtube {
     margin: 10px;
     font-size: 2rem;
     text-align:center;
@@ -172,11 +172,11 @@ header:hover{
 	color: var(--main-fonts-color);
 }
 
-.social-media b i{
+.youtube i{
 	cursor: pointer;
 }
 
-.social-media  b:hover {
+.youtube:hover {
 	color: #ff0000;
 	text-shadow: 0 0 50px #ff0000;
 }
