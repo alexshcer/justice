@@ -37,7 +37,7 @@ header {
 	position: fixed;
 	top: 0;
 	transition: 0.5s;
-	z-index: 1;
+	z-index: 2;
 }
 .nav-show {
 	opacity: 0;
@@ -380,7 +380,7 @@ hr {
 	height: 2px;
 	background: #dbdbdb;
 	margin: 5px;
-	transition: all 0.3s ease;
+	transition: all 0.5s ease;
 }
 
 .toggle .line1 {
@@ -463,6 +463,26 @@ hr {
 	.nav-bar li{
 		opacity:0;
 	}
+	.spotify_iframe{
+		height: 84px;
+	}
+	.youtube_iframe{
+		width: 350px;
+		height: 200px;
+	}
+	#home .filter {
+		background: url("https://042jamz.com/wp-content/uploads/2021/03/Justin-Bieber-JUSTICE.jpg")
+			no-repeat;
+		background-size: cover;
+		background-position: center top;
+		position: absolute;
+		top: 0px;
+		bottom: 0;
+		padding-left: 0px;
+		right: 0;
+		opacity: 0.50;
+	}
+	
 }
 
 .nav-active {
