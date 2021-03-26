@@ -115,7 +115,7 @@ header:hover {
 	color: var(--main-fonts-color);
 	z-index: 1;
 	margin: auto;
-	padding: 20px;
+	position: center;
 }
 
 .intro p {
