@@ -116,6 +116,7 @@ header:hover {
 	z-index: 1;
 	margin: auto;
 	position: center;
+	padding: 20px 20px;
 }
 
 .intro p {
