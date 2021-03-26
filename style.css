@@ -409,7 +409,7 @@ hr {
 /*────────────────── 
     media queries
 ──────────────────*/
-@media only screen and (min-width: 703px) and (min-height: 937px) {
+@media only screen and (max-width: 703px) and (max-height: 937px) {
 	#home .filter {
 		background: url("https://042jamz.com/wp-content/uploads/2021/03/Justin-Bieber-JUSTICE.jpg")
 			no-repeat;
@@ -435,24 +435,10 @@ hr {
 	.work {
 		padding: 20px 20%;
 	}
-	.spotify_iframe{
-		height: 84px;
-	}
-	.youtube_iframe{
-		width: 350px;
-		height: 200px;
-	}
 }
 @media only screen and (max-width: 1214px) and (min-width: 1000px) {
 	.work {
 		padding: 20px 12%;
-	}
-	.spotify_iframe{
-		height: 84px;
-	}
-	.youtube_iframe{
-		width: 350px;
-		height: 200px;
 	}
 }
 
