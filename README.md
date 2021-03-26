@@ -1,1 +1,1 @@
-### Just fuck off you want to clone or fork this git
+### Just fuck off if you want to clone or fork this git
