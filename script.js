@@ -7,10 +7,10 @@ $(window).on('scroll', function(){
 	else{
 		$('header').removeClass('nav-show');
 	}
-	   
+
 })
 
-//hamburger
+//hamburger is a shit
 const navSlide = () => {
 	 const hamburger = document.querySelector(".hamburger");
 	 const navbar = document.querySelector(".nav-bar");
