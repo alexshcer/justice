@@ -1,7 +1,10 @@
 {
   "hosting": {
-    "site": "jb-justice",
-    "public": "public",
-    ...
+    "public": "no",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
   }
 }
